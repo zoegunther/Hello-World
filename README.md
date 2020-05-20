@@ -2,29 +2,33 @@
 Starting, Day 1
 <header> Zoe Gunther </header>
 
-<style>
-  
-  .position{ display: flex;}
-  
-</style>
+#label-container{
+height: 30px;
+display: flex;
+}
  
-<label> 
+#true-facts{
   True Facts:
-</label> 
 
 <ol type="A"> 
   <li> Taco Tuesday is the MOST important day of the week </li>
   <li> Wine Wednesday is of course a very close secone </li>
   <li> Fancy Friday also acceptable. </li>
   </ol>
+  }
   
- <label>
+#fake-facts{
   Fake Facts:
- </label>
+
  
  <ol type="1" display="flex">
   <li> Every Donkey is named Donald. </li>
   <li> Every Hannah is a Banana. </li>
   <li> Once upon a moon, there was a ham. </li>
   </ol>
+  }
   
+  <div id="label-container">
+  <div id="true-facts"> </div>
+  <div id="fake-facts"></div>
+  </div>
