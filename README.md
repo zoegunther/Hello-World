@@ -2,7 +2,7 @@
 Starting, Day 1
 <header> Zoe Gunther </header>
 
-#label-container{
+#box-container{
 height: 30px;
 display: flex;
 }
@@ -28,7 +28,7 @@ display: flex;
   </ol>
   }
   
-  <div id="label-container">
+  <div id="box-container">
   <div id="true-facts"> </div>
   <div id="fake-facts"></div>
   </div>
