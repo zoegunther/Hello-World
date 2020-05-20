@@ -1,7 +1,13 @@
 # Hello-World
 Starting, Day 1
-<header> Zoe Gunther. Beginning test. </header>
+<header> Zoe Gunther </header>
 
+<style>
+  
+  .position{ display: flex;}
+  
+</style>
+ 
 <label> 
   True Facts:
 </label> 
@@ -16,7 +22,7 @@ Starting, Day 1
   Fake Facts:
  </label>
  
- <ol type="1">
+ <ol type="1" display="flex">
   <li> Every Donkey is named Donald. </li>
   <li> Every Hannah is a Banana. </li>
   <li> Once upon a moon, there was a ham. </li>
