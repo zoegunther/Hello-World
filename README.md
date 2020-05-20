@@ -2,6 +2,8 @@
 Starting, Day 1
 <header> Zoe Gunther </header>
 
+<style>
+ 
 #box-container{
 height: 300px;
 display: flex;
@@ -16,6 +18,9 @@ width: 50%;
 hieght:50%;
 width: 50%;
 }
+
+</style>
+
 
 <div id="box-container>
 <div id="true-facts">
